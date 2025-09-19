@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Patrick 👋
+
+---
+
+I am a junior front-end software engineer capable of creating responsive and beautiful pages without sacrificing user experience.
+
+Feel free to browse my profile, and also to judge. Any type of criticism will be welcome :)
 
 <!--
 **HTorike/HTorike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
