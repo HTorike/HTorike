@@ -2,7 +2,7 @@
 
 ---
 
-I am a junior front-end software engineer capable of creating responsive and beautiful pages without sacrificing user experience.
+Hi! I’m a junior software engineer who enjoys creating clean, responsive, and user-friendly applications that look good and work even better.
 
 Feel free to browse my profile, and also to judge. Any type of criticism will be welcome :)
 
